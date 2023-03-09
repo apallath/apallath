@@ -18,6 +18,8 @@
 | --- | --- | --- |
 | **[paperfetcher](https://github.com/paperfetcher/paperfetcher)** | Python package to automate handsearching and citation searching for systematic reviews. | [![PyPI version fury.io](https://badge.fury.io/py/paperfetcher.svg)](https://pypi.python.org/pypi/paperfetcher/) ![Stars](https://img.shields.io/github/stars/paperfetcher/paperfetcher) ![Forks](https://img.shields.io/github/forks/paperfetcher/paperfetcher) |
 | **[paperfetcher-web-app](https://github.com/paperfetcher/paperfetcher-web-app)** | Streamlit web-app for paperfetcher | ![Stars](https://img.shields.io/github/stars/paperfetcher/paperfetcher-web-app) ![Forks](https://img.shields.io/github/forks/paperfetcher/paperfetcher-web-app) |
+| **[paperfetcheR-Notebooks](https://github.com/paperfetcher/paperfetcheR-Notebooks)** | R-Notebooks demonstrating how to use paperfetcher in R | ![Stars](https://img.shields.io/github/stars/paperfetcher/paperfetcheR-Notebooks) ![Forks](https://img.shields.io/github/forks/paperfetcher/paperfetcheR-Notebooks) |
+| **[paperfetcheR-starter](https://github.com/paperfetcher/paperfetcheR-starter)** | R scripts to help you quickly get started with handsearching and citation searching using paperfetcher | ![Stars](https://img.shields.io/github/stars/paperfetcher/paperfetcheR-starter) ![Forks](https://img.shields.io/github/forks/paperfetcher/paperfetcheR-starter) |
 
 ### Miscellaneous
 
